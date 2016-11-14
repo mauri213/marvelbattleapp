@@ -58,7 +58,7 @@ narrowly misses "Iron Patriot (James Rhodes)".
 
 Iron Man stands firm, blocking all attacks byIron Patriot (James Rhodes).
 "Iron Man" obtains Super Star and is invincible to all of 
-"Iron Patriot (James Rhodes)"'s attacks.
+"Iron Patriot (James Rhodes)"'s attacks for a short period of time.
 
 Furious and fumbling May Parker dives in to assault Thanos clumsily missing.
 Trying to text and fight at the same time "May Parker" attacks blindly and misses "Thanos".
