@@ -18,3 +18,11 @@ Battle Manager
 		"battlemanager": "https://github.com/TIY-Columbia-Front-End-Engineering/battlemanager"
 	}
 }
+
+messages.js = loads the message as a variable called messages
+assets-battlemanager.js = loads the battle manager object
+assets-bundle.js = 
+div class navView
+div class pageView - battle once view
+div class footerView 
+
